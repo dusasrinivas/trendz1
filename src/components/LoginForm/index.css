@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+.login-image {
+  width: 650px;
+}
+.image-container {
+  width: 60%;
+}
+.login-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  margin: auto;
+}
+.trend-logo {
+  width: 160px;
+  align-self: center;
+  margin-bottom: 15px;
+}
+.form-container {
+  width: 28%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+}
+.lable {
+  color: #64748b;
+  font-family: Roboto;
+  margin-bottom: 5px;
+  margin-top: 15px;
+}
+
+.error {
+  color: #ff0b37;
+  font-family: Roboto;
+  font-weight: 600;
+}

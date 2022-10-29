@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+
+.home-container {
+  display: flex;
+}
+
+.heading {
+  color: #1e293b;
+  font-family: Roboto;
+  font-size: 44px;
+  font-weight: bold;
+}
+
+.paragraph {
+  color: #64748b;
+  font-family: Roboto;
+  font-size: 15px;
+  margin-top: 15px;
+}
+.btn1 {
+  background-color: #0b69ff;
+  font-family: Roboto;
+  font-size: 16px;
+  color: #ffffff;
+  border: none;
+  padding: 10px 35px 10px 35px;
+  border-radius: 5px;
+  margin-top: 15px;
+  cursor: pointer;
+  outline: none;
+}
+.text-container {
+  width: 60%;
+  padding: 24px;
+}
+.clother-image {
+  width: 350px;
+}

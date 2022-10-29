@@ -1,0 +1,40 @@
+/* Write your CSS code here */
+
+.nxt-trnd-logo {
+  width: 200px;
+}
+
+.header-container {
+  padding: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-container {
+  display: flex;
+  padding-left: 0;
+}
+.link-container {
+  display: flex;
+}
+
+.list-element {
+  list-style-type: none;
+  margin-right: 10px;
+  color: #64748b;
+  font-family: Roboto;
+  font-size: 20px;
+}
+.btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 20px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  outline: none;
+  padding-top: 0;
+  padding-bottom: 0;
+}
